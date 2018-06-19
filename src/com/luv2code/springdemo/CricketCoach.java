@@ -23,7 +23,7 @@ public class CricketCoach implements Coach {
 		System.out.println("23-calling CricketCoach setTeam  method");
 		this.team = team;
 	}
-
+	
 	
 	public String getEmailAddress() {
 		return emailAddress;
