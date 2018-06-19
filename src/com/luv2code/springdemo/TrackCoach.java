@@ -22,6 +22,16 @@ public class TrackCoach implements Coach{
 	public String getDailyFortune() {
 		return fortuneService.getFortune();
 	}
+	
+
+	public void doMyStartupStuff() {
+		System.out.println("28 - doMyStartupStuff  ");
+	}
+
+   public void doMyDestroyStuff () {
+	   System.out.println("32- doMyDestroyStuff  ");
+    }
+
 
 	
 }
