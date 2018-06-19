@@ -10,9 +10,9 @@ public class MyApp {
 //	Now this one is from Interface 
 //		Coach c1 = new BaseBallCoach(); 
 		
-		Coach c1 = new TrackCoach(); 
+//		Coach c1 = new TrackCoach(); 
 		
-		System.out.println("  spitting method +  " +  c1.getDailyWorkout() );
+//		System.out.println("  spitting method +  " +  c1.getDailyWorkout() );
 		
 
 	}
